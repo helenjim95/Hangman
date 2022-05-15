@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Project 'University Admission Procedure'" />
+    <option name="defaultScopeName" value="Project 'University Admission Procedure'" />
+    <option name="SEARCH_SCOPE" value="Project 'University Admission Procedure'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
